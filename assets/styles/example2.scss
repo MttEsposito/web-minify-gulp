@@ -1,0 +1,12 @@
+$color: #ffffff;
+$width: 800px;
+
+body{
+ width: $width;
+ color: $color;
+
+ content{
+  width: $width;
+  background:$color;
+ }
+}

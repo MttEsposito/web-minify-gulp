@@ -1,0 +1,10 @@
+body{
+    background-color: red;
+    color: blue;
+}
+.class{
+    font-size: 16px;
+}
+.class:hover{
+    background-color: yellow;
+}
